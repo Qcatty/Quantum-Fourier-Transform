@@ -1,1 +1,1 @@
-# Quantum-Fourier-Transform
+# Fourier-Transfor&Quantum-Fourier-Transform
